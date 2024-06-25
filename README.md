@@ -12,5 +12,5 @@ This app was the idea of one of the students. It helps to keep track of the resu
 
 ### <a href="https://guentherschmitt.github.io/fdg_flutter_2023/web_apps/lux_meter/">lux_meter</a>
 
-Main goal of this app was to learn how to use external packages from <a href="https://pub.dev/">pub.dev</a>, e.g. <a href="https://pub.dev/packages/light/">light</a> to get values from the light sensor in Android or <a href="https://pub.dev/packages/fl_chart">fl_chart</a> to visualize cartesian charts.
+Main goal of this app was to learn how to use external packages from <a href="https://pub.dev/">pub.dev</a>, e.g. <a href="https://pub.dev/packages/light/">light</a> to get values from the light sensor in Android or <a href="https://pub.dev/packages/fl_chart">fl_chart</a> to visualize cartesian charts. 
 
